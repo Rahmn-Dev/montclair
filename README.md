@@ -1,4 +1,6 @@
+
 # Montclair
+<img width="124" height="124" alt="white" src="https://github.com/user-attachments/assets/b2329bcf-6042-444b-b37c-c0e4cde842cf" />
 
 A deliberately small, native macOS browser built with AppKit and the system WebKit engine.
 
