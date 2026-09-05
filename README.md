@@ -4,6 +4,19 @@
 
 A deliberately small, native macOS browser built with AppKit and the system WebKit engine.
 
+## UI
+<img width="1920" height="1280" alt="453_1x_shots_so" src="https://github.com/user-attachments/assets/9e2769fb-1916-4f75-9521-bf76afc50b6f" />
+<img width="1920" height="1280" alt="71_1x_shots_so" src="https://github.com/user-attachments/assets/bcb26f52-ffbe-4383-a089-65ba33cbba30" />
+
+https://github.com/user-attachments/assets/a035aeb0-d1bb-41b8-8853-e593d4f9b3d6
+
+loading bar
+
+https://github.com/user-attachments/assets/84337b27-c81f-400c-814c-5feb8fd460ab
+
+tab section
+
+
 ## Included
 
 - Multi-tab browsing
