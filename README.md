@@ -1,6 +1,9 @@
+<p align="center">
+  <img width="124" height="124" alt="Montclair Logo"
+       src="https://github.com/user-attachments/assets/b2329bcf-6042-444b-b37c-c0e4cde842cf" />
+</p>
 
-# Montclair
-<img width="124" height="124" alt="white" src="https://github.com/user-attachments/assets/b2329bcf-6042-444b-b37c-c0e4cde842cf" />
+<h1 align="center">Montclair</h1>
 
 A deliberately small, native macOS browser built with AppKit and the system WebKit engine.
 
